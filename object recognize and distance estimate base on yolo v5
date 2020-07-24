@@ -1,1 +1,10 @@
 object recognize and distance estimate base on yolo v5
+
+step1. Setup all of  doc in requirements of below website link first at all .
+https://github.com/ultralytics/yolov5
+
+step2. Copy detect.py below website link and use it .
+https://github.com/o920130130/YangSongbo/upload/master
+
+result:
+https://youtu.be/baohMfIhXcw
